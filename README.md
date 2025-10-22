@@ -1,6 +1,7 @@
 # instaUnfollow
+A tool for unfollowing people who don't follow you back
 
-use:
+usage:
 
 
 ```bash
